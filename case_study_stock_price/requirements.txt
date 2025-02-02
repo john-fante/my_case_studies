@@ -2,4 +2,5 @@ pandas
 numpy
 river
 plotly
+grpcio-tools<=1.67.1
 optuna

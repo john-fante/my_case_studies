@@ -35,14 +35,10 @@ I developed a solution using the steps below
 * https://optuna.org
 """
 
-# Installing river package for online learning
-!pip install river -q
-
 # Importing dependencies
 
 import warnings
 warnings.filterwarnings('ignore')
-import os
 import pandas as pd
 import numpy as np
 import plotly.express as px
