@@ -1,21 +1,18 @@
-# Project Name
+# Microsoft Stock Price Prediction with Online/Incremental Learning
+Stock price prediction with online learning case study.
 
-A brief description of your project.
 
 ## Installation
-
 Follow these steps to set up the project on your local machine:
 
-### 1. Clone the repository
-
-# 1. Clone the repository from GitHub
+## 1. Clone the repository from GitHub
 git clone https://github.com/john-fante/my_case_studies.git
 
 # 2. Change into the project directory (note: it's 'case_study_stock_price', not 'my_case_studies')
 cd case_study_stock_price
 
-# 3. Install the necessary dependencies from the 'requirements.txt' file
+## 3. Install the necessary dependencies from the 'requirements.txt' file
 pip install -r requirements.txt
 
-# 4. Run the 'main.py' file to execute the program
+## 4. Run the 'main.py' file to execute the program
 python main.py
